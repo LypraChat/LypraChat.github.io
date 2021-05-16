@@ -1,0 +1,12 @@
+Uri: https://rhymbil-memechat.netlify.app/
+File Name: c:\Downloaded Web Sites\rhymbil-memechat.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://rhymbil-memechat.netlify.app/index.css
+File Name: c:\Downloaded Web Sites\rhymbil-memechat.netlify.app\index.css
+Content Type: text/css
+
+Uri: https://rhymbil-memechat.netlify.app/index.js
+File Name: c:\Downloaded Web Sites\rhymbil-memechat.netlify.app\index.js
+Content Type: application/javascript
+
